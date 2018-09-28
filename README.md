@@ -32,16 +32,16 @@ We will choose 1 winner for each category to receive $2000 USD in KNC tokens!
 The open category has separate conditions which can be seen [here](), with a bigger prize pool of $3000 USD worth of KNC tokens!
 
 ## Criteria (Placeholder)
-### 1. User Experience (X%)
+#### 1. User Experience (X%)
 Intuitive, easy to use, understand and interact with. 
 
-### 2. Technical Difficulty (Y%)
+#### 2. Technical Difficulty (Y%)
 Going above and beyond what we specified. Good code quality, bug free, documentation.
 
-### 3. Usability (95-X-Y%)
+#### 3. Usability (95-X-Y%)
 Other projects are able to build on top of your application, or incorporate it into their own.
 
-### 4. X Factor (5%)
+#### 4. X Factor (5%)
 
 ## Team
 We will have a booth set up during the event, so just drop by to meet us! 
