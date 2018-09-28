@@ -12,7 +12,7 @@ One strong advantage of Kyber is that liquidity is already on-chain (tokens and 
 
 It would be cool to build a relay can combine both 0x's and Kyber's model: there are always on-chain orders relayed from Kyber and users can also create new off-chain orders should they wish to sell/buy at a different price. What's really interesting is how the settlement occurs between a new on-chain order with an existing off-chain order, since it may require interactions between both Kyber and 0x smart contracts.
 
-### 3. Integration into MakerDAO's Collateralized Debt Position (CDP)
+### 3. Integration with MakerDAO's Collateralized Debt Position (CDP)
 The creation and closing of a CDP can only be done with ETH and DAI respectively. Futhermore, the process is rather tedious and complicated, where one has to understand the mechanism well. Consider simplifying the process to make it user-friendly and easy to create a CDP to obtain DAI.
 
 1. Allow a creation of a CDP with ERC20 tokens. Use Kyber's protocol to exchange the ERC20 token for ETH, and then ETH to PETH from Maker.
