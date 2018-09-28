@@ -39,7 +39,7 @@ Intuitive, easy to use, understand and interact with.
 Going above and beyond what we specified. Good code quality, bug free, documentation.
 
 ### 3. Usability (95-X-Y%)
-Other projects able to build on top of your application, or incorporate it into their own?
+Other projects are able to build on top of your application, or incorporate it into their own.
 
 ### 4. X Factor (5%)
 
