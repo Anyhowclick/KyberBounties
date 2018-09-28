@@ -43,7 +43,7 @@ Going above and beyond what we specified. Good code quality, bug free, documenta
 Other projects are able to build on top of your application, or incorporate it into their own.
 
 #### 4. X Factor (5%)
-
+---
 ### Open Category
 #### 1. Idea (X%)
 The importance of Kyber's protocol in the application, & originality of the idea.
