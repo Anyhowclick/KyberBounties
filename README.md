@@ -32,7 +32,7 @@ We will choose 1 winner for each category to receive $2000 USD in KNC tokens!<br
 The open category has a bigger prize pool of $3000 USD worth of KNC tokens!
 
 ## Criteria
-### Normal Category
+### General Category
 #### 1. User Experience (30%)
 Intuitive, easy to use, understand and interact with. 
 
