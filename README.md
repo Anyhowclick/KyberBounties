@@ -2,12 +2,13 @@
 Hey Hackers, unsure of what to work on for ETHSanFrancsico? Consider taking a look at what you can build with Kyber! One thing that we'd like to promote is the spirit of collaboration, and leveraging our protocol for use in other projects. For example, [InstaDapp](https://ethindia.conteract.io/) was put together in ETHIndia, where they won $3k in DAI.
 
 ### 1. Collateral liqudation on-chain
-Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of loan defaults, you could allow for the lender to liquidate the collateral to whatever token he wishes.
+Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of a loan default, 
+the lender keeps the collateral. Currently, he would have to actively liqudate it to the token of his choice. With Kyber, this liqudation can be done seamlessly.
 
 ### 2. Off-chain virtual orderbook relayer
 One strong advantage of Kyber is that liquidity is already on-chain (tokens and prices are already on the smart contract). Anyone can query the Kyber contract for the expect buy and sell rate, such as 1 or 2 ETH equivalent amount of a token. Thus, one can then reconstruct an orderbook with orders extracted from Kyber’s liquidity pool. Let's denote orders extracted from Kyber as on-chain orders.
 
-It would be interesting if a relay can combine both 0x's and Kyber's model: there are always on-chain orders relayed from Kyber and users can also create new off-chain orders should they wish to sell/buy at a different price. The interesting case will be when there is a new on-chain order that matches an existing off-chain order, since the settlement may require interaction between both Kyber and 0x smart contracts.
+It would be cool to build a relay can combine both 0x's and Kyber's model: there are always on-chain orders relayed from Kyber and users can also create new off-chain orders should they wish to sell/buy at a different price. What's really interesting is how the settlement occurs between a new on-chain order with an existing off-chain order, since it may require interactions between both Kyber and 0x smart contracts.
 
 ### 3. Integration into MakerDAO's CDP
 The creation and closing of a CDP can only be done with ETH and DAI respectively. Futhermore, the process is rather tedious and complicated, where one has to understand the mechanism well. Consider simplifying the process to make it user-friendly and easy to create a CDP to obtain DAI, and closing one with ERC20 tokens.
