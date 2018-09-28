@@ -28,10 +28,11 @@ These are just some of the ideas we propose, but you may have better ones! Dig i
 
 ---
 ## Prizes
-We will choose 1 winner for each category to receive $2000 USD in KNC tokens!
-The open category has separate conditions which can be seen [here](), with a bigger prize pool of $3000 USD worth of KNC tokens!
+We will choose 1 winner for each category to receive $2000 USD in KNC tokens!<br>
+The open category has a bigger prize pool of $3000 USD worth of KNC tokens!
 
-## Criteria (Placeholder)
+## Criteria
+### Normal Category
 #### 1. User Experience (X%)
 Intuitive, easy to use, understand and interact with. 
 
@@ -42,6 +43,22 @@ Going above and beyond what we specified. Good code quality, bug free, documenta
 Other projects are able to build on top of your application, or incorporate it into their own.
 
 #### 4. X Factor (5%)
+
+### Open Category
+#### 1. Idea (X%)
+The importance of Kyber's protocol in the application, & originality of the idea.
+
+#### 2. User Experience (Y%)
+Intuitive, easy to use, understand and interact with. 
+
+#### 3. Technical Difficulty (Z%)
+Going above and beyond what we specified. Good code quality, bug free, documentation.
+
+#### 4. Usability (95-X-Y-Z%)
+Other projects are able to build on top of your application, or incorporate it into their own.
+
+#### 5. X Factor (5%)
+
 
 ## Team
 We will have a booth set up during the event, so just drop by to meet us! 
