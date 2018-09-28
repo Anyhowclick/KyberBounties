@@ -33,28 +33,28 @@ The open category has a bigger prize pool of $3000 USD worth of KNC tokens!
 
 ## Criteria
 ### Normal Category
-#### 1. User Experience (X%)
+#### 1. User Experience (30%)
 Intuitive, easy to use, understand and interact with. 
 
-#### 2. Technical Difficulty (Y%)
+#### 2. Technical Difficulty (35%)
 Going above and beyond what we specified. Good code quality, bug free, documentation.
 
-#### 3. Usability (95-X-Y%)
+#### 3. Usability (30%)
 Other projects are able to build on top of your application, or incorporate it into their own.
 
 #### 4. X Factor (5%)
 ---
 ### Open Category
-#### 1. Idea (X%)
+#### 1. Idea (20%)
 The importance of Kyber's protocol in the application, & originality of the idea.
 
-#### 2. User Experience (Y%)
+#### 2. User Experience (25%)
 Intuitive, easy to use, understand and interact with. 
 
-#### 3. Technical Difficulty (Z%)
-Going above and beyond what we specified. Good code quality, bug free, documentation.
+#### 3. Technical Difficulty (25%)
+Good code quality, bug free, documentation.
 
-#### 4. Usability (95-X-Y-Z%)
+#### 4. Usability (25%)
 Other projects are able to build on top of your application, or incorporate it into their own.
 
 #### 5. X Factor (5%)
