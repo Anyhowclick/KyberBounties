@@ -1,5 +1,7 @@
 # Bounties for ETHSanFrancisco
-Hey Hackers, unsure of what to work on for ETHSanFrancsico? Consider taking a look at what you can build with Kyber! One thing that we'd like to promote is the spirit of collaboration, and leveraging our protocol for use in other projects. For example, [InstaDapp](https://ethindia.conteract.io/) was put together in ETHIndia, where they won $3k in DAI.
+After witnessing the cool projects built at ETHBerlin, we cannot wait to see what ETHSanFrancisco can offer! There is a strong spirit of collaboration at these events, and we hope to further promote this ideal through the bounties we are offering. To get an idea of the kind of collaboration going on, take a look at [InstaDapp](https://ethindia.conteract.io/), a project put together in ETHIndia, where they won MakerDAO's first prize bounty of $3k in DAI.
+
+Our proposed bounties have a core idea of leveraging our protocol for use in other projects.
 
 ### 1. Collateral liqudation on-chain
 Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of a loan default, 
