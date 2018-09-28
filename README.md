@@ -32,8 +32,10 @@ We will choose 1 winner for each category to receive $2000 USD in KNC tokens!
 The open category has separate conditions which can be seen [here](), with a bigger prize pool of $3000 USD worth of KNC tokens!
 
 ## Criteria (Placeholder)
-1. Quality of execution - ideas are nice, but the more important thing is to have a working PoC for your project. We recommend to stay realistic and lean with the execution.
-2. DAO Architecture - We will pay attention to the way you structure your DAO/ Dapp. We recommend following the architecture detailed here. Using reputation based voting is mostly better than a token based voting. We encourage the use of the Holographic Consensus protocol to enhance the decision-making capacity of an organization (where fits).
+1. Ipsum
+Because Ipsum was my best friend.
+2. Lorem
+Because Lorem is Ipsum's best friend.
 
 ## Team
 We will have a booth set up during the event, so just drop by to meet us! 
